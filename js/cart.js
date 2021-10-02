@@ -1,5 +1,5 @@
 let cart = {};
-permissions-policy: interest-cohort=()
+
 
 function loadCart() {
   if(localStorage.getItem('cart')) {
