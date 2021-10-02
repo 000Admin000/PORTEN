@@ -1,5 +1,5 @@
 <?php 
-
+permissions-policy: interest-cohort=()
   $json = file_get_contents('../goods.json');
   $json = json_decode($json, true);
 
